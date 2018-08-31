@@ -20,3 +20,9 @@
 > https://www.zhihu.com/question/31232730/answer/202038404
 
 感谢在欧路词典制作课本的前辈指点，附上那个课本《恋练有词30》的txt，在文件夹中。
+
+使用该课本方法。
+
+欧路词典课本搜索《2019恋练有词测一测》
+
+![](http://ww1.sinaimg.cn/large/005yt5eJly1futanflpp8j30fb0c8mxl.jpg)
