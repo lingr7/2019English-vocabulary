@@ -1,0 +1,87 @@
+unit 16
+host
+ghost
+hostile
+hostility
+hostage
+military
+military intelligence
+armed
+native
+alternative
+alternatively
+procedure
+working procedure
+starting procedure
+loading procedure
+recommend
+recommendation
+commend
+master
+masterpiece
+mastery
+be proficient in
+be adept at
+be good at
+pour
+outpouring
+pour into
+strengthen
+strength
+bury
+bury one¡¯s head in
+the sand
+celebrate
+celebrity
+crop
+crown
+disaster
+catastrophe
+orient
+oriented
+prevail
+reign
+quest
+request
+question
+unquestioned
+rear
+rearing
+reap
+specialize
+specialize in
+vulnerable
+fragile
+brittle
+ambiguous
+unambiguous
+obscure
+opaque
+vague
+peak
+paramount
+summit
+climax
+pension
+suspension
+grant
+subsidy
+allowance
+rage
+outrage
+in a rage
+fury
+recipient
+eliminate
+elimination
+remote
+distant
+faraway
+farther
+immune
+immune to
+implement
+implementation
+trial
+dose
+
